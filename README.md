@@ -1,4 +1,4 @@
-[![Header](https://github.com/Rasshua/Rasshua/blob/main/assets/Background_1.png)]
+[![Header](https://github.com/Rasshua/Rasshua/blob/main/assets/Background_2.png)]
 ## I'm a Manual Software Tester. 
 
 ## . 
