@@ -1,4 +1,4 @@
-[![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
+[![Header](https://github.com/Rasshua/Rasshua/blob/main/assets/Background_1.jpg)](https://artsiomrusau.com/)
 ## I'm a Manual Software Tester. 
 ## . 
 ## My CV
