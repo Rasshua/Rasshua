@@ -25,7 +25,7 @@ I am open to new opportunities and will be happy to work with a team where my ex
 ![Header](https://img.shields.io/badge/Ubuntu-101010?style=for-the-badge&logo=ubuntu&logoColor=d64613)
 ## Deliverables
 ### Testing Documentations
-- [Checklists](https://github.com/Rasshua/checklist)
+- [Checklists](https://github.com/Rasshua/checklists)
 - [Test-Suites and Test-Cases](https://github.com/Rasshua/test-cases)
 - [Bug-Reports](https://github.com/Rasshua/bug-reports)
 - [SQL Queries](https://github.com/Rasshua/SQL)
