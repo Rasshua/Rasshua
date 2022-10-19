@@ -1,6 +1,10 @@
 [![Header](https://github.com/Rasshua/Rasshua/blob/main/assets/GitHub_Logo_2.png)](https://127.0.0.1)
-## About Me 
+## I'm a Software Tester with Telecom Engineer background
 I'm the rookie in software testing area. At July of 2022 I've got a training in the basics of testing for web applications, mobile applications, API and MySQL databases. Now I'm working at several crowdtesting platforms to increase my knowledges and to obtain practical experience in testing.
+
+From the previous professional life I have more than 20 years experience as an engineer in telecommunications, namely: installation, commissioning and maintenance of the packet transport network equipment.
+
+Also I have proven experience in professional mentoring and training.
 
 I am open to new opportunities and will be happy to work with a team where my experience and knowledge can best be used.  
 
@@ -28,8 +32,15 @@ I am open to new opportunities and will be happy to work with a team where my ex
 - [Postman Collections](https://github.com/Rasshua/postman)
 
 ## Achievments
-![uTest rank](https://github.com/Rasshua/Rasshua/blob/main/assets/utest_badge.png)
-[![MEF-CECP Certificate](https://github.com/Rasshua/Rasshua/blob/main/assets/MEF-CECP-Logo.jpg)](https://drive.google.com/file/d/17zJxfSNSyGUifiip3D0tPxULdP_WCkXL/view?usp=sharing/)
+As the Software tester:
+- [Proven software tester on uTest.com](https://github.com/Rasshua/Rasshua/blob/main/assets/utest_badge.png)
+
+As the Telecom engineer:
+- [Carrier Ethernet Certified Professional (MEF-CECP)](https://drive.google.com/file/d/17zJxfSNSyGUifiip3D0tPxULdP_WCkXL/view?usp=sharing/)
 ## Follow Me
-[![Header](https://img.shields.io/badge/Linkedin-494949?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/polandre/)
-| - OUT OF DATE!!!
+<!---------
+(https://www.linkedin.com/in/polandre/)
+-------->
+!!! OUT OF DATE !!!
+
+[![Header](https://img.shields.io/badge/Linkedin-494949?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://127.0.0.1)
