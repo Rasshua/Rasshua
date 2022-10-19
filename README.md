@@ -33,7 +33,7 @@ I am open to new opportunities and will be happy to work with a team where my ex
 
 ## Achievments
 As the Software tester:
-- [Proven software tester on uTest.com](https://github.com/Rasshua/Rasshua/blob/main/assets/utest_badge.png)
+- [Proven software tester on uTest.com](https://github.com/Rasshua/Rasshua/blob/main/assets/utest_rating.png)
 
 As the Telecom engineer:
 - [Carrier Ethernet Certified Professional (MEF-CECP)](https://drive.google.com/file/d/17zJxfSNSyGUifiip3D0tPxULdP_WCkXL/view?usp=sharing/)
