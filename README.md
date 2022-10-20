@@ -37,6 +37,7 @@ As the Software tester:
 
 As the Telecom engineer:
 - [Carrier Ethernet Certified Professional (MEF-CECP)](https://drive.google.com/file/d/17zJxfSNSyGUifiip3D0tPxULdP_WCkXL/view?usp=sharing/)
+- [Nokia Network Routing Specialist (NRS-I)](https://drive.google.com/file/d/1G1G-efrz_6K171duKWESWU9N5C0Ugz8z/view?usp=sharing/)
 ## Follow Me
 <!---------
 (https://www.linkedin.com/in/polandre/)
