@@ -1,4 +1,4 @@
-[![Header](https://github.com/Rasshua/Rasshua/blob/main/assets/GitHub_Logo_2.png)](https://127.0.0.1)
+[![Header](https://github.com/Rasshua/Rasshua/blob/main/assets/GitHub_Logo_3.png)](https://127.0.0.1)
 ## I'm a Software Tester with Telecom Engineer background
 I'm the rookie in **software testing** area. At July of 2022 I've got a training in the basics of testing for web applications, mobile applications, API and MySQL databases. Now I'm working at several crowdtesting platforms to increase my knowledges and to obtain practical experience in testing.
 
