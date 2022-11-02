@@ -1,13 +1,13 @@
 ![Header](https://github.com/Rasshua/Rasshua/blob/main/assets/GitHub_Logo_3.png)
 # Software Test Engineer with Telecom background
-Manual Testing:
+**Manual Testing:**
 - Websites, Web applications, API, MySQL
 - Testing documentation: bug reports, test cases, checklists
 - Linux CLI and basics of Linux administration
 
-20+ years of experience as a telecommunications network engineer.
+20+ years of experience as a **telecommunications network engineer**.
 
-Proven technical training and mentoring skills.
+Proven **technical training and mentoring** skills.
 
 ## CV
 - [Software Test Engineer (EN)](https://drive.google.com/file/d/1vsXONS1yR6B9koRHFoZpSgpA4NonI8WP/view?usp=sharing/)
