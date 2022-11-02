@@ -26,11 +26,18 @@ Proven technical training and mentoring skills.
 ![Header](https://img.shields.io/badge/Ubuntu-101010?style=for-the-badge&logo=ubuntu&logoColor=d64613)
 ## Deliverables
 ### Testing Documentations
-- [Checklists](https://github.com/Rasshua/checklists)
+
+- Checklists
+- Test-Suites and Test-Cases
+- [Bug-Reports](https://github.com/Rasshua/bug-reports)
+- SQL Queries
+- Postman Collections
+<!-- - [Checklists](https://github.com/Rasshua/checklists)
 - [Test-Suites and Test-Cases](https://github.com/Rasshua/test-cases)
 - [Bug-Reports](https://github.com/Rasshua/bug-reports)
 - [SQL Queries](https://github.com/Rasshua/SQL)
 - [Postman Collections](https://github.com/Rasshua/postman)
+-->
 
 ## Achievments
 As the Software tester:
