@@ -1,12 +1,13 @@
-[![Header](https://github.com/Rasshua/Rasshua/blob/main/assets/GitHub_Logo_3.png)](https://127.0.0.1)
-## I'm a Software Test Engineer with Telecom background
-I'm the rookie in **software testing** area. At July of 2022 I've got a training in the basics of testing for web applications, mobile applications, API and MySQL databases. Now I'm working at several crowdtesting platforms to increase my knowledges and to obtain practical experience in testing.
+![Header](https://github.com/Rasshua/Rasshua/blob/main/assets/GitHub_Logo_3.png)
+## Software Test Engineer with Telecom background
+Manual Testing:
+- Websites, Web applications, API, MySQL
+- Testing documentation: bug reports, test cases, checklists
+- Linux CLI and basics of Linux administration
 
-From the previous professional life I have more than 20 years experience as an **engineer in telecommunications**, namely: installation, commissioning and maintenance of the packet transport network equipment.
+20+ years of experience as a telecommunications network engineer.
 
-Also I have proven experience in **professional mentoring and training**.
-
-I am open to new opportunities and will be happy to work with a team where my experience and knowledge can best be used.  
+Proven technical training and mentoring skills.
 
 ## CV
 - [Software Test Engineer (EN)](https://drive.google.com/file/d/1vsXONS1yR6B9koRHFoZpSgpA4NonI8WP/view?usp=sharing/)
