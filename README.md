@@ -27,18 +27,17 @@ Proven **technical training and mentoring** skills.
 ## Deliverables
 ### Testing Documentations
 
+- [Bug Reports](https://github.com/Rasshua/bug-reports)
+- Test Cases and Test Suites
 - Checklists
-- Test-Suites and Test-Cases
-- [Bug-Reports](https://github.com/Rasshua/bug-reports)
 - SQL Queries
 - Postman Collections
-<!-- - [Checklists](https://github.com/Rasshua/checklists)
-- [Test-Suites and Test-Cases](https://github.com/Rasshua/test-cases)
-- [Bug-Reports](https://github.com/Rasshua/bug-reports)
+<!-- 
+- [Test Cases and Test Suites](https://github.com/Rasshua/test-cases)
+- [Checklists](https://github.com/Rasshua/checklists)
 - [SQL Queries](https://github.com/Rasshua/SQL)
 - [Postman Collections](https://github.com/Rasshua/postman)
 -->
-
 ## Achievments
 As the Software tester:
 - [Proven software tester on uTest.com](https://github.com/Rasshua/Rasshua/blob/main/assets/utest_rating.png)
