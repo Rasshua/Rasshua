@@ -28,12 +28,11 @@ Proven **technical training and mentoring** skills.
 ### Testing Documentations
 
 - [Bug Reports](https://github.com/Rasshua/bug-reports)
-- Test Cases and Test Suites
+- [Test Cases and Test Suites](https://github.com/Rasshua/test-cases)
 - Checklists
 - SQL Queries
 - Postman Collections
 <!-- 
-- [Test Cases and Test Suites](https://github.com/Rasshua/test-cases)
 - [Checklists](https://github.com/Rasshua/checklists)
 - [SQL Queries](https://github.com/Rasshua/SQL)
 - [Postman Collections](https://github.com/Rasshua/postman)
