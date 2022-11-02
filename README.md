@@ -1,5 +1,5 @@
 ![Header](https://github.com/Rasshua/Rasshua/blob/main/assets/GitHub_Logo_3.png)
-## Software Test Engineer with Telecom background
+# Software Test Engineer with Telecom background
 Manual Testing:
 - Websites, Web applications, API, MySQL
 - Testing documentation: bug reports, test cases, checklists
