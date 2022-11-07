@@ -14,7 +14,7 @@ Proven **technical training and mentoring** skills.
 
 ## CV
 
-- [Software Test Engineer (EN)](https://drive.google.com/file/d/1vsXONS1yR6B9koRHFoZpSgpA4NonI8WP/view?usp=sharing/)
+- [Software Test Engineer (EN)](https://drive.google.com/file/d/1k0H87trrbpj33P-1fJCdGl4A6qTcJDEM/view?usp=sharing/)
 - [Telecom Engineer - legacy (RU)](https://drive.google.com/file/d/1a7WdCtnjboCTyN2qirbzu3xn-5YAvffY/view?usp=sharing/)
 
 ## Languages and Tools
