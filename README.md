@@ -1,6 +1,6 @@
 ![Header](https://github.com/Rasshua/Rasshua/blob/main/assets/GitHub_Logo_3.png)
 
-# Software Test Engineer
+# Software Test Engineer with Telecom background
 
 **Manual Testing:**
 
