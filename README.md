@@ -28,6 +28,7 @@ Proven **technical training and mentoring** skills.
 
 ![Header](https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=GitHub&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/VSCode-101010?style=for-the-badge&logo=visualstudio&logoColor=39a7f2)
+![Header](https://img.shields.io/badge/VMWare-101010?style=for-the-badge&logo=vmware&logoColor=77a53e)
 ![Header](https://img.shields.io/badge/Ubuntu-101010?style=for-the-badge&logo=ubuntu&logoColor=d64613)
 
 ## Deliverables
