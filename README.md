@@ -6,7 +6,16 @@
 
 - Websites, Web applications, API, MySQL
 - Testing documentation: bug reports, test cases, checklists
-- Linux CLI and basics of Linux administration
+- Testing tools: Charles Proxy, SoapUI, Postman, MySQL Workbench, DevTools, Android Studio
+- Team Workspace tools: Jira, Confluence
+
+**Other IT Skills**
+
+- IP Networking
+- Git & GitHub
+- Virtualization & Virtual machines
+- Linux CLI & bacics of Linux administration
+- Bash Scripting language
 
 20+ years of experience as a **telecommunications network engineer**.
 
@@ -37,14 +46,16 @@ Proven **technical training and mentoring** skills.
 
 - [Bug Reports](https://github.com/Rasshua/bug-reports)
 - [Test Cases and Test Suites](https://github.com/Rasshua/test-cases)
-- Checklists
-- SQL Queries
-- Postman Collections
+
 <!-- 
 - [Checklists](https://github.com/Rasshua/checklists)
 - [SQL Queries](https://github.com/Rasshua/SQL)
 - [Postman Collections](https://github.com/Rasshua/postman)
 -->
+
+### Other IT-related ones
+
+- [Bash scripts](https://github.com/Rasshua/bash-scripts)
 
 ## Achievments
 
