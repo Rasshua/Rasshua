@@ -19,7 +19,7 @@
 
 20+ years of experience as a **telecommunications network engineer**.
 
-Proven **technical training and mentoring** skills.
+Proven skills in **technical training and mentoring**.
 
 ## CV
 
