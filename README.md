@@ -19,11 +19,11 @@
 
 20+ years of experience as a **telecommunications network engineer**.
 
-Proven skills in **technical training and mentoring**.
+Proven skills in **technical training** and **mentoring**.
 
 ## CV
 
-- [Software Test Engineer (EN)](https://drive.google.com/file/d/1k0H87trrbpj33P-1fJCdGl4A6qTcJDEM/view?usp=sharing/)
+- [Software Test Engineer (EN)](https://drive.google.com/file/d/1mFk_dq2Ceym3CFek6y6debr8SGZuV6pu/view?usp=sharing)
 - [Telecom Engineer - legacy (RU)](https://drive.google.com/file/d/1a7WdCtnjboCTyN2qirbzu3xn-5YAvffY/view?usp=sharing/)
 
 ## Languages and Tools
