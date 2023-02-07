@@ -7,7 +7,7 @@
 - Websites, Web applications, API, MySQL
 - Testing documentation: bug reports, test cases, checklists
 - Testing tools: Charles Proxy, SoapUI, Postman, MySQL Workbench, DevTools, Android Studio
-- Team Workspace tools: Jira, Confluence
+- Team Workspace tools: Testrail, Jira, Confluence
 
 **Other IT Skills**
 
