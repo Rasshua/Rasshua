@@ -1,6 +1,6 @@
 ![Header](https://github.com/Rasshua/Rasshua/blob/main/assets/GitHub_Logo_4.png)
 
-# Software Test Engineer
+# QA Engineer
 
 **Manual Testing:**
 
