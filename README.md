@@ -2,12 +2,12 @@
 
 # QA Engineer
 
-**Manual Testing:**
+**Quality Assurance:**
 
-- Websites, Web applications, API, MySQL
-- Testing documentation: bug reports, test cases, checklists
+- Testing: Requirements & Documentation, Desktop apps, Websites, Web apps, API, MySQL
+- Testing documentation: test plans, test cases, bug reports, test reports
 - Testing tools: Charles Proxy, SoapUI, Postman, MySQL Workbench, DevTools, Android Studio
-- Team Workspace tools: Testrail, Jira, Confluence
+- Team Workspace tools: Testrail, Qase, Jira, Confluence
 
 **Other IT Skills**
 
@@ -21,12 +21,12 @@
 
 Proven skills in **technical training** and **mentoring**.
 
-## CV
+## Curriculum Vitae
 
-- [QA Engineer (EN)](https://drive.google.com/file/d/1NP5NBTWFgqpd-rma6MsZAm1xkSoCs0Qz/view?usp=sharing)
+- [Quality Assurance Engineer (EN)](https://drive.google.com/file/d/1eApQ5hG-S34D8MAm-CQdYJGVvxq3sPkq/view?usp=drive_link)
 - [Telecom Engineer - legacy (RU)](https://drive.google.com/file/d/1a7WdCtnjboCTyN2qirbzu3xn-5YAvffY/view?usp=sharing/)
 
-## Languages and Tools
+## Experience & Tools
 
 ![Header](https://img.shields.io/badge/DevTools-101010?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
@@ -40,12 +40,14 @@ Proven skills in **technical training** and **mentoring**.
 ![Header](https://img.shields.io/badge/VMWare-101010?style=for-the-badge&logo=vmware&logoColor=77a53e)
 ![Header](https://img.shields.io/badge/Ubuntu-101010?style=for-the-badge&logo=ubuntu&logoColor=d64613)
 
-## Deliverables
+## Projects
 
-### Testing Documentations
+### Quality Assuranse & Testing
 
-- [Bug Reports](https://github.com/Rasshua/bug-reports)
-- [Test Cases and Test Suites](https://github.com/Rasshua/test-cases)
+- [Online movie database testing](https://drive.google.com/drive/folders/1wRsz-UvbP-XCPs8Xw8pSNMe1j-H7pSz7?usp=drive_link)
+- [Privatbank - the Mobile Banking](https://drive.google.com/drive/folders/1bM94fRKS6Lv5V8uzl5-26lBZ9YvCkV4l?usp=drive_link)
+- [Webstore testing](https://drive.google.com/drive/folders/1M0UoeqYRgYFqYuDwqAt21SsE5SfpIbko?usp=drive_link)
+
 
 <!-- 
 - [Checklists](https://github.com/Rasshua/checklists)
@@ -53,14 +55,16 @@ Proven skills in **technical training** and **mentoring**.
 - [Postman Collections](https://github.com/Rasshua/postman)
 -->
 
-### Other IT-related ones
+### Other IT-related deliverables
 
-- [Bash scripts](https://github.com/Rasshua/bash-scripts)
+- [Bash scripts](https://drive.google.com/drive/folders/1ThTxZMmPo9p6abuqCUSFSL_FYOgclELI?usp=drive_link)
 
-## Achievments
+## Certificates & Achievments
 
 As the Software tester:
-- [Proven software tester on uTest.com](https://github.com/Rasshua/Rasshua/blob/main/assets/utest_rating.png)
+- [Proven software tester - uTest.com](https://drive.google.com/file/d/1S7CVCRouJHKoHpnpp-kSJLlU5AfQ2ykM/view?usp=drive_link)
+- [QA Manual course - GoIT Academy](https://drive.google.com/file/d/1mJxY7qPihw1E51S2jAbivzcgPpZhHbKL/view?usp=drive_link)
+- <i>Certified Tester Foundation Level (CTFL) - ISTQB <b>(in progress)</b></i>
 
 As the Telecom engineer:
 - [Carrier Ethernet Certified Professional (MEF-CECP)](https://drive.google.com/file/d/17zJxfSNSyGUifiip3D0tPxULdP_WCkXL/view?usp=sharing/)
