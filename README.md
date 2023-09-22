@@ -24,7 +24,7 @@ Proven skills in **technical training** and **mentoring**.
 ## Curriculum Vitae
 
 - [Quality Assurance Engineer (EN)](https://drive.google.com/file/d/1eApQ5hG-S34D8MAm-CQdYJGVvxq3sPkq/view?usp=drive_link)
-- [Telecom Engineer - legacy (RU)](https://drive.google.com/file/d/1a7WdCtnjboCTyN2qirbzu3xn-5YAvffY/view?usp=sharing/)
+
 
 ## Experience & Tools
 
@@ -44,9 +44,10 @@ Proven skills in **technical training** and **mentoring**.
 
 ### Quality Assuranse & Testing
 
-- [Online movie database testing](https://drive.google.com/drive/folders/1wRsz-UvbP-XCPs8Xw8pSNMe1j-H7pSz7?usp=drive_link)
-- [Privatbank - the Mobile Banking](https://drive.google.com/drive/folders/1bM94fRKS6Lv5V8uzl5-26lBZ9YvCkV4l?usp=drive_link)
-- [Webstore testing](https://drive.google.com/drive/folders/1M0UoeqYRgYFqYuDwqAt21SsE5SfpIbko?usp=drive_link)
+- [Junfolio - a social project for the website's development by junior specialists for charitableand social initiatives](https://marvelous-sfogliatella-e86cea.netlify.app)
+- [AMBIDEXTER - business card website for the online school of acting and oratory skills](https://www.ambidexterschool.com/en)
+- [IM CONSULTING - business card website for creating a personal brand and attracting newcustomers and partners](https://im-consulting.vercel.app/)
+- [ODESSA MAFIA CLUB - the multi-page website with an admin panel for the only Mafia school inOdessa](https://mafia-odesa.vercel.app/)
 
 
 <!-- 
@@ -57,13 +58,14 @@ Proven skills in **technical training** and **mentoring**.
 
 ### Other IT-related deliverables
 
-- [Bash scripts](https://drive.google.com/drive/folders/1ThTxZMmPo9p6abuqCUSFSL_FYOgclELI?usp=drive_link)
+- [HTML Parcer for website validation and SEO](https://github.com/Rasshua/html_parser)
+- [Brave Goose - Python based screen game](https://github.com/Rasshua/brave_goose)
 
 ## Certificates & Achievments
 
-As the Software tester:
-- [Proven software tester - uTest.com](https://drive.google.com/file/d/1S7CVCRouJHKoHpnpp-kSJLlU5AfQ2ykM/view?usp=drive_link)
+As the QA Engineer:
 - [QA Manual course - GoIT Academy](https://drive.google.com/file/d/1mJxY7qPihw1E51S2jAbivzcgPpZhHbKL/view?usp=drive_link)
+- [Proven software tester - uTest.com](https://drive.google.com/file/d/1S7CVCRouJHKoHpnpp-kSJLlU5AfQ2ykM/view?usp=drive_link)
 - <i>Certified Tester Foundation Level (CTFL) - ISTQB <b>(in progress)</b></i>
 
 As the Telecom engineer:
