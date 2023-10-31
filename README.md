@@ -25,7 +25,6 @@ Proven skills in **technical training** and **mentoring**.
 
 - [Quality Assurance Engineer (EN)](https://drive.google.com/file/d/1eApQ5hG-S34D8MAm-CQdYJGVvxq3sPkq/view?usp=drive_link)
 
-
 ## Experience & Tools
 
 ![Header](https://img.shields.io/badge/DevTools-101010?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
@@ -48,9 +47,9 @@ Proven skills in **technical training** and **mentoring**.
 - [AMBIDEXTER - business card website for the online school of acting and oratory skills](https://www.ambidexterschool.com/en)
 - [IM CONSULTING - business card website for creating a personal brand and attracting newcustomers and partners](https://im-consulting.vercel.app/)
 - [ODESSA MAFIA CLUB - the multi-page website with an admin panel for the only Mafia school in Odessa](https://mafia-odesa.vercel.app/)
+- [CLEAN WATER FOR EVERYONE - The website for an charity fund that provides clean drinking water](https://clear-water.vercel.app/uk)
 - [PENTILO AGENCY - business card website for SMM-agency](https://pentiloagency.com/)
 - [THE PHLEBOLOGIST - the welcome website for the doctor-phlebologist, vascular surgeon of 1st category](https://phlebologist.vercel.app/uk)
-
 
 <!-- 
 - [Checklists](https://github.com/Rasshua/checklists)
