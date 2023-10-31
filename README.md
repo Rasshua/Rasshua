@@ -42,12 +42,14 @@ Proven skills in **technical training** and **mentoring**.
 
 ## Projects
 
-### Quality Assuranse & Testing
+### Quality Assuranse & Testing (Portfolio)
 
-- [Junfolio - a social project for the website's development by junior specialists for charitableand social initiatives](https://marvelous-sfogliatella-e86cea.netlify.app)
+- [Junfolio - a social project for the website's development by junior specialists for charitable and social initiatives](https://marvelous-sfogliatella-e86cea.netlify.app)
 - [AMBIDEXTER - business card website for the online school of acting and oratory skills](https://www.ambidexterschool.com/en)
 - [IM CONSULTING - business card website for creating a personal brand and attracting newcustomers and partners](https://im-consulting.vercel.app/)
-- [ODESSA MAFIA CLUB - the multi-page website with an admin panel for the only Mafia school inOdessa](https://mafia-odesa.vercel.app/)
+- [ODESSA MAFIA CLUB - the multi-page website with an admin panel for the only Mafia school in Odessa](https://mafia-odesa.vercel.app/)
+- [PENTILO AGENCY - business card website for SMM-agency](https://pentiloagency.com/)
+- [THE PHLEBOLOGIST - the welcome website for the doctor-phlebologist, vascular surgeon of 1st category](https://phlebologist.vercel.app/uk)
 
 
 <!-- 
