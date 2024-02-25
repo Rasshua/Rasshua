@@ -4,6 +4,7 @@
 
 **Quality Assurance:**
 
+- Currently I specialize in testing websites, web applications and API testing
 - Testing: Requirements & Documentation, Desktop apps, Websites, Web apps, API, MySQL
 - Testing documentation: test plans, test cases, bug reports, test reports
 - Testing tools: Charles Proxy, SoapUI, Postman, MySQL Workbench, DevTools, Android Studio
