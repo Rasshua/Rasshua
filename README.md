@@ -43,13 +43,17 @@ Proven skills in **technical training** and **mentoring**.
 
 ### Quality Assuranse & Testing (Portfolio)
 
-- [Junfolio - a social project for the website's development by junior specialists for charitable and social initiatives](https://marvelous-sfogliatella-e86cea.netlify.app)
+- [Junfolio - a social project for the website's development by junior specialists for charitable and social initiatives](https://junfolio.top/)
 - [AMBIDEXTER - business card website for the online school of acting and oratory skills](https://www.ambidexterschool.com/en)
-- [IM CONSULTING - business card website for creating a personal brand and attracting newcustomers and partners](https://im-consulting.vercel.app/)
-- [ODESSA MAFIA CLUB - the multi-page website with an admin panel for the only Mafia school in Odessa](https://mafia-odesa.vercel.app/)
-- [CLEAN WATER FOR EVERYONE - The website for an charity fund that provides clean drinking water](https://clear-water.vercel.app/uk)
+- [IM CONSULTING - business card website for creating a personal brand and attracting newcustomers and partners](https://imconsulting.com.ua/)
+- [ODESSA MAFIA CLUB - multi-page website with an admin panel for the only Mafia school in Odessa](https://mafiaodessa.com/)
+- [CLEAN WATER FOR EVERYONE - website for an charity fund that provides clean drinking water](https://charitywater.com.ua/en)
 - [PENTILO AGENCY - business card website for SMM-agency](https://pentiloagency.com/)
-- [THE PHLEBOLOGIST - the welcome website for the doctor-phlebologist, vascular surgeon of 1st category](https://phlebologist.vercel.app/uk)
+- [THE PHLEBOLOGIST - welcome website for the doctor-phlebologist, vascular surgeon of 1st category](https://doctor-voitsitskyi.com.ua/en)
+- [13 CANDLE BAR - website for a family workshop of aromas and coziness](https://www.13candle.bar/en)
+- [SMILE BAR LVIV - website for a dental office for teeth whitening](https://smilebarlviv.com/)
+- [CONFETTI - perfect and unique balloon decorations for events](https://www.confettibalony.shop/)
+- [GIFT STUDIO - welcome website for studio of delicious gifts ](https://www.gift-studio.com.ua/)
 
 <!-- 
 - [Checklists](https://github.com/Rasshua/checklists)
@@ -59,7 +63,7 @@ Proven skills in **technical training** and **mentoring**.
 
 ### Other IT-related deliverables
 
-- [HTML Parcer for website validation and SEO](https://github.com/Rasshua/html_parser)
+- [HTML Parcer for website validation and SEO (Python)](https://github.com/Rasshua/html_parser)
 - [Brave Goose - Python based screen game](https://github.com/Rasshua/brave_goose)
 
 ## Certificates & Achievments
