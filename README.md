@@ -24,7 +24,7 @@ Proven skills in **technical training** and **mentoring**.
 
 ## Curriculum Vitae
 
-- [Quality Assurance Engineer (EN)](https://drive.google.com/file/d/1eApQ5hG-S34D8MAm-CQdYJGVvxq3sPkq/view?usp=drive_link)
+- [Quality Assurance Engineer (EN)](https://drive.google.com/file/d/1eApQ5hG-S34D8MAm-CQdYJGVvxq3sPkq/view?usp=drive_link "target=_blank")
 
 ## Experience & Tools
 
