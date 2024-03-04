@@ -73,9 +73,10 @@ Proven skills in **technical training** and **mentoring**.
 ## Certificates & Achievments
 
 As the QA Engineer:
-- [QA Manual course - GoIT Academy](https://drive.google.com/file/d/1mJxY7qPihw1E51S2jAbivzcgPpZhHbKL/view?usp=drive_link)
-- [Proven software tester - uTest.com](https://drive.google.com/file/d/1S7CVCRouJHKoHpnpp-kSJLlU5AfQ2ykM/view?usp=drive_link)
-- <i>Certified Tester Foundation Level (CTFL) - ISTQB <b>(in progress)</b></i>
+- [Certificate of Internship complete - SiftRyzen](https://drive.google.com/file/d/1wn3_aw1a60DvnfHTROja6mUyXsolx5HT/view?usp=drive_link)
+- [Diploma QA Manual - GoIT Academy](https://drive.google.com/file/d/1mJxY7qPihw1E51S2jAbivzcgPpZhHbKL/view?usp=drive_link)
+- [Certificate of Proven software tester - uTest.com](https://drive.google.com/file/d/1S7CVCRouJHKoHpnpp-kSJLlU5AfQ2ykM/view?usp=drive_link)
+- <i>Certified Tester Foundation Level (CTFL) - ISTQB <b>(coming soon)</b></i>
 
 As the Telecom engineer:
 - [Carrier Ethernet Certified Professional (MEF-CECP)](https://drive.google.com/file/d/17zJxfSNSyGUifiip3D0tPxULdP_WCkXL/view?usp=sharing/)
