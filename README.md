@@ -2,21 +2,25 @@
 
 # QA Engineer
 
-**Quality Assurance:**
+Having successfully worked on a lot of commercial projects, I am now a confident and driven QA Engineer. I have extensive experience in functional testing of web pages and web applications. I am also good at backend testing, API testing and working with PostgreSQL databases. I have proven myself in organizing and managing testing processes in a development team. Finally I am a good mentor and teacher.
 
-- Currently I specialize in testing websites, web applications and API testing
-- Testing: Requirements & Documentation, Desktop apps, Websites, Web apps, API, MySQL
+Among my absolute strengths are the ability to create a warm, friendly atmosphere in a team and the willingness to help to achieve a common goal.
+
+**QA Abilities:**
+
+- Testing types: Functional testing, Usability testing, Cross-platform testing
+- Testing areas: Requirements & Documentation, Websites, Web apps, API, SQL databases, Desktop apps
 - Testing documentation: test plans, test cases, bug reports, test reports
-- Testing tools: Charles Proxy, SoapUI, Postman, MySQL Workbench, DevTools, Android Studio
-- Team Workspace tools: Testrail, Qase, Jira, Confluence
+- Testing tools: Chrome DevTools, Postman, SoapUI, Charles Proxy, pgAdmin, MySQL Workbench
+- Team Workspace tools: Trello, Testrail, Qase, Jira, Confluence
 
 **Other IT Skills**
 
-- IP Networking
 - Git & GitHub
 - Virtualization & Virtual machines
 - Linux CLI & basics of Linux administration
 - Bash Scripting language
+- IP Networking
 
 20+ years of experience as a **telecommunications network engineer**.
 
@@ -73,9 +77,9 @@ Proven skills in **technical training** and **mentoring**.
 ## Certificates & Achievments
 
 As the QA Engineer:
-- [Certificate of successful internship](https://drive.google.com/file/d/1wn3_aw1a60DvnfHTROja6mUyXsolx5HT/view?usp=drive_link) - SoftRyzen
-- [Diploma QA Manual](https://drive.google.com/file/d/1mJxY7qPihw1E51S2jAbivzcgPpZhHbKL/view?usp=drive_link) - GoIT Academy
 - [Certificate of Proven software tester](https://drive.google.com/file/d/1S7CVCRouJHKoHpnpp-kSJLlU5AfQ2ykM/view?usp=drive_link) - uTest.com
+- [Diploma QA Manual](https://drive.google.com/file/d/1mJxY7qPihw1E51S2jAbivzcgPpZhHbKL/view?usp=drive_link) - GoIT Academy
+- [Certificate of successful internship](https://drive.google.com/file/d/1wn3_aw1a60DvnfHTROja6mUyXsolx5HT/view?usp=drive_link) - SoftRyzen
 - <i>Certified Tester Foundation Level (CTFL) - ISTQB <b>(coming soon)</b></i>
 
 As the Telecom engineer:
