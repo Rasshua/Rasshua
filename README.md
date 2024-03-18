@@ -10,7 +10,7 @@ Among my absolute strengths are the ability to create a warm, friendly atmospher
 
 **QA Abilities:**
 
-- Testing types: Functional testing, Usability testing, Cross-platform testing
+- Testing types: Functional testing, Usability testing, Cross-platform testing, Exploratory testing
 - Testing areas: Requirements & Documentation, Websites, Web apps, API, SQL databases, Desktop apps
 - Testing documentation: test plans, test cases, bug reports, test reports
 - Testing tools: Chrome DevTools, Postman, SoapUI, Charles Proxy, pgAdmin, MySQL Workbench
