@@ -2,6 +2,8 @@
 
 # QA Engineer
 
+I offer QA services in the development of software products on a project basis.
+
 Having successfully worked on a lot of commercial projects, I am now a confident and driven QA Engineer. I have extensive experience in functional testing of web pages and web applications. I am also good at backend testing, API testing and working with PostgreSQL databases. I have proven myself in organizing and managing testing processes in a development team. Finally I am a good mentor and teacher.
 
 Among my absolute strengths are the ability to create a warm, friendly atmosphere in a team and the willingness to help to achieve a common goal.
